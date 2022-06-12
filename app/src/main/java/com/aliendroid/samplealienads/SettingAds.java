@@ -7,7 +7,7 @@ public class SettingAds {
     public static String MAIN_ADS_BANNER ="testw6vs28auh3";
     public static String BACKUP_ADS_BANNER="topBanner";
 
-    public static String MAIN_ADS_INTERTITIAL ="teste9ih9j0rc3";
+    public static String MAIN_ADS_INTERTITIAL ="testb4znbuh3n2";
     public static String BACKUP_ADS_INTERTITIAL="Android_Interstitial";
 
     public static String MAIN_ADS_REWARDS ="testx9dtjwj8hp";
