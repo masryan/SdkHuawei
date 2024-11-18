@@ -34,7 +34,7 @@ dependencies {
     implementation "androidx.multidex:multidex:2.0.1"
     implementation 'com.google.android.material:material:1.65.0'
     implementation 'com.huawei.hms:ads-lite:3.4.66.300'
-  
+    implementation 'com.huawei.hms:ads-consent:3.4.66.300'
    
 
 
